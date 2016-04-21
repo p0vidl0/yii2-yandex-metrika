@@ -12,13 +12,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require "p0vidl0/yii2-yandex-metrika" "*"
+php composer.phar require "p0vidl0/yii2-yandex-metrika-widget" "*"
 ```
 
 or add
 
 ```json
-"p0vidl0/yii2-yandex-metrika" : "*"
+"p0vidl0/yii2-yandex-metrika-widget" : "*"
 ```
 
 to the require section of your application's `composer.json` file.
