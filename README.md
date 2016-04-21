@@ -1,4 +1,4 @@
-yii2-yandex-metrika
+yii2-yandex-metrika-widget
 ===================
 
 Yii2 widget to add Yandex.Metrika counter on page
