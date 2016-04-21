@@ -2,6 +2,7 @@ yii2-yandex-metrika-widget
 ===================
 
 Yii2 widget to add Yandex.Metrika counter on page
+
 Forked from dkushnikov/yii2-yandex-metrika
 
 
