@@ -11,12 +11,12 @@
     "license":           "BSD License",
     "authors":           [
         {
-            "name":  "Dmitry Kushnikov",
-            "email": "dkushnikov@gmail.com"
-        },
-        {
             "name":  "Aleksandr Kalashnikov",
             "email": "nixomsk@gmail.com"
+        },
+        {
+            "name":  "Dmitry Kushnikov",
+            "email": "dkushnikov@gmail.com"
         }
     ],
     "minimum-stability": "dev",
